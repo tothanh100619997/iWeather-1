@@ -1,4 +1,4 @@
-iWeather written by Trinh Minh Cuong
+iWeather written by Thanh To Dep Trai
 
 for iOS class 30. Can convert from Celcius to Farenheight
 
